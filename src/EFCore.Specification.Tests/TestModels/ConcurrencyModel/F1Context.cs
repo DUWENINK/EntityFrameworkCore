@@ -524,7 +524,7 @@ namespace Microsoft.EntityFrameworkCore.TestModels.ConcurrencyModel
                 },
                 new TestDriver
                 {
-                    Name = "Marc Gené",
+                    Name = "Marc Gen?",
                     TeamId = Team.Ferrari,
                     CarNumber = null,
                     Championships = 0,
